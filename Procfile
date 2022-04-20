@@ -1,0 +1,1 @@
+web: gunicorn tableviz:app --log-file=-
