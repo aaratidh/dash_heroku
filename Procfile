@@ -1,1 +1,1 @@
-web: gunicorn tableviz:app --log-file=-
+web: gunicorn tableviz:server    
