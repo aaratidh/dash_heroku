@@ -1,1 +1,1 @@
-web: gunicorn tableviz:app 
+web: gunicorn tableviz:server
